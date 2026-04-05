@@ -28,7 +28,8 @@
 		"calendar": "Calendario",
 		"admin_panel": "Panel de administración",
 		"navigation": "Navegación",
-		"worldtravel": "Viajes por el mundo"
+		"worldtravel": "Viajes por el mundo",
+		"mobile_login": "Inicio de sesión móvil"
 	},
 	"about": {
 		"about": "Acerca de",
@@ -1031,7 +1032,8 @@
 	"locations": {
 		"location": "Ubicación",
 		"locations": "Ubicación",
-		"my_locations": "Mis ubicaciones"
+		"my_locations": "Mis ubicaciones",
+		"best_happened_at": "Lo mejor sucedió en"
 	},
 	"settings_download_backup": "Descargar copia de seguridad",
 	"invites": {
@@ -1139,5 +1141,29 @@
 		"trip_context_info": "Los elementos del contexto del viaje se aplican a todo el viaje; por ejemplo, ubicaciones que son el destino en sí, notas generales o listas de equipaje que son importantes para todo el viaje.",
 		"unscheduled_items": "Artículos no programados",
 		"unscheduled_items_desc": "Estos elementos están vinculados a este viaje pero aún no se han agregado a un día específico."
+	},
+	"api_keys": {
+		"copied": "¡Copiado!",
+		"copy": "Copiar clave",
+		"create": "Crear clave",
+		"create_error": "No se pudo crear la clave API.",
+		"created": "Creado",
+		"description": "Cree claves API personales para acceso programático. \nLas claves se muestran solo una vez en el momento de la creación.",
+		"dismiss": "Despedir",
+		"key_created": "Clave API creada correctamente.",
+		"key_name_placeholder": "Nombre clave (por ejemplo, Home Assistant)",
+		"key_revoked": "Clave API revocada.",
+		"last_used": "último usado",
+		"never_used": "Nunca usado",
+		"new_key_title": "Guarde su nueva clave API",
+		"new_key_warning": "Esta clave no se volverá a mostrar. \nCópialo y guárdalo en un lugar seguro.",
+		"no_keys": "Aún no hay claves API.",
+		"revoke": "Revocar",
+		"revoke_error": "No se pudo revocar la clave API.",
+		"title": "Claves API",
+		"copy_error": "Error al copiar la clave.",
+		"usage_middle": "encabezado o como",
+		"usage_prefix": "Utilice esta clave en el",
+		"delete_confirm": "¿Está seguro de que desea eliminar esta clave API móvil?"
 	}
 }

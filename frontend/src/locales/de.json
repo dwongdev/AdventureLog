@@ -492,7 +492,8 @@
 		"calendar": "Kalender",
 		"admin_panel": "Administration",
 		"navigation": "Navigation",
-		"worldtravel": "Weltreisen"
+		"worldtravel": "Weltreisen",
+		"mobile_login": "Mobile Anmeldung"
 	},
 	"auth": {
 		"confirm_password": "Passwort bestätigen",
@@ -1031,7 +1032,8 @@
 	"locations": {
 		"location": "Standort",
 		"locations": "Standorte",
-		"my_locations": "Meine Standorte"
+		"my_locations": "Meine Standorte",
+		"best_happened_at": "Das Beste ist passiert"
 	},
 	"settings_download_backup": "Sicherung herunterladen",
 	"invites": {
@@ -1139,5 +1141,29 @@
 		"trip_context_info": "Reisekontextelemente gelten für die gesamte Reise – zum Beispiel Orte, die das Ziel selbst darstellen, allgemeine Notizen oder Packlisten, die für die gesamte Reise wichtig sind.",
 		"unscheduled_items": "Ungeplante Einträge",
 		"unscheduled_items_desc": "Diese Einträge sind mit dieser Reise verknüpft, wurden aber noch keinem bestimmten Tag hinzugefügt."
+	},
+	"api_keys": {
+		"copied": "Kopiert!",
+		"copy": "Schlüssel kopieren",
+		"create": "Schlüssel erstellen",
+		"create_error": "API-Schlüssel konnte nicht erstellt werden.",
+		"created": "Erstellt",
+		"description": "Erstellen Sie persönliche API-Schlüssel für den programmgesteuerten Zugriff. \nSchlüssel werden zum Zeitpunkt der Erstellung nur einmal angezeigt.",
+		"dismiss": "Zurückweisen",
+		"key_created": "API-Schlüssel erfolgreich erstellt.",
+		"key_name_placeholder": "Schlüsselname (z. B. Home Assistant)",
+		"key_revoked": "API-Schlüssel widerrufen.",
+		"last_used": "Zuletzt verwendet",
+		"never_used": "Nie benutzt",
+		"new_key_title": "Speichern Sie Ihren neuen API-Schlüssel",
+		"new_key_warning": "Dieser Schlüssel wird nicht mehr angezeigt. \nKopieren Sie ihn und bewahren Sie ihn an einem sicheren Ort auf.",
+		"no_keys": "Noch keine API-Schlüssel.",
+		"revoke": "Widerrufen",
+		"title": "API-Schlüssel",
+		"revoke_error": "API-Schlüssel konnte nicht widerrufen werden.",
+		"copy_error": "Fehler beim Kopieren des Schlüssels.",
+		"usage_middle": "Header oder als",
+		"usage_prefix": "Verwenden Sie diesen Schlüssel im",
+		"delete_confirm": "Sind Sie sicher, dass Sie diesen mobilen API-Schlüssel löschen möchten?"
 	}
 }
